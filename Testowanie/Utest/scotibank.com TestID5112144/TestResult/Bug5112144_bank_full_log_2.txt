@@ -1,0 +1,120 @@
+﻿09:54:33.435 Navigated to https://www.scotiabank.com/ca/en/personal.html
+09:54:33.971 main.c6ca189a.js:1 Pinterest Tag Error: 'load' command was called multiple times.  Previously for tag id '2613266695551', now for tag id '2613203756483'.
+h.load @ main.c6ca189a.js:1
+n @ main.c6ca189a.js:1
+h.activate @ main.c6ca189a.js:1
+(anonymous) @ main.c6ca189a.js:1
+e @ main.c6ca189a.js:1
+(anonymous) @ main.c6ca189a.js:1
+(anonymous) @ main.c6ca189a.js:1
+09:54:34.447 jquery.min.0df0e32e18ee58de56f4070a7846a5de.js:1 GET https://ytchannelembed.com/jsonfr.php?jsoncallback=jQuery300027587789273343755_1623657273674&_=1623657273675 net::ERR_CONNECTION_CLOSED
+send @ jquery.min.0df0e32e18ee58de56f4070a7846a5de.js:1
+ajax @ jquery.min.0df0e32e18ee58de56f4070a7846a5de.js:1
+m.<computed> @ jquery.min.0df0e32e18ee58de56f4070a7846a5de.js:1
+getJSON @ jquery.min.0df0e32e18ee58de56f4070a7846a5de.js:1
+(anonymous) @ bns.bundle.min.c596899832ee574efe8e3994af7187b3.js:2
+l @ jquery.min.0df0e32e18ee58de56f4070a7846a5de.js:1
+c @ jquery.min.0df0e32e18ee58de56f4070a7846a5de.js:1
+setTimeout (async)
+(anonymous) @ jquery.min.0df0e32e18ee58de56f4070a7846a5de.js:1
+u @ jquery.min.0df0e32e18ee58de56f4070a7846a5de.js:1
+fireWith @ jquery.min.0df0e32e18ee58de56f4070a7846a5de.js:1
+fire @ jquery.min.0df0e32e18ee58de56f4070a7846a5de.js:1
+u @ jquery.min.0df0e32e18ee58de56f4070a7846a5de.js:1
+fireWith @ jquery.min.0df0e32e18ee58de56f4070a7846a5de.js:1
+ready @ jquery.min.0df0e32e18ee58de56f4070a7846a5de.js:1
+B @ jquery.min.0df0e32e18ee58de56f4070a7846a5de.js:1
+09:54:34.457 bns.recommendation-tabs.min.cb6620c9de0f8feb39769e3842676483.js:1 Uncaught DOMException: Failed to execute 'querySelector' on 'Element': '#' is not a valid selector.
+at https://www.scotiabank.com/etc.clientlibs/scotiabank/clientlibs/bns.recommendation-tabs.min.cb6620c9de0f8feb39769e3842676483.js:1:2960
+at Array.map (<anonymous>)
+at https://www.scotiabank.com/etc.clientlibs/scotiabank/clientlibs/bns.recommendation-tabs.min.cb6620c9de0f8feb39769e3842676483.js:1:2891
+(anonymous) @ bns.recommendation-tabs.min.cb6620c9de0f8feb39769e3842676483.js:1
+(anonymous) @ bns.recommendation-tabs.min.cb6620c9de0f8feb39769e3842676483.js:1
+load (async)
+(anonymous) @ bns.recommendation-tabs.min.cb6620c9de0f8feb39769e3842676483.js:1
+n @ bns.recommendation-tabs.min.cb6620c9de0f8feb39769e3842676483.js:1
+(anonymous) @ bns.recommendation-tabs.min.cb6620c9de0f8feb39769e3842676483.js:1
+n @ bns.recommendation-tabs.min.cb6620c9de0f8feb39769e3842676483.js:1
+(anonymous) @ bns.recommendation-tabs.min.cb6620c9de0f8feb39769e3842676483.js:1
+(anonymous) @ bns.recommendation-tabs.min.cb6620c9de0f8feb39769e3842676483.js:1
+09:54:44.166 Navigated to https://www.scotiabank.com/ca/en/small-business/ways-to-bank/automated-banking-machines.html
+09:54:44.690 DevTools failed to load source map: Could not load content for https://www.scotiabank.com/etc.clientlibs/scotiabank/clientlibs/bns.vendor/axios.min.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+09:54:44.712 main.c6ca189a.js:1 Pinterest Tag Error: 'load' command was called multiple times.  Previously for tag id '2613266695551', now for tag id '2613203756483'.
+h.load @ main.c6ca189a.js:1
+n @ main.c6ca189a.js:1
+h.activate @ main.c6ca189a.js:1
+(anonymous) @ main.c6ca189a.js:1
+e @ main.c6ca189a.js:1
+(anonymous) @ main.c6ca189a.js:1
+(anonymous) @ main.c6ca189a.js:1
+09:54:45.173 jquery.min.0df0e32e18ee58de56f4070a7846a5de.js:1 GET https://ytchannelembed.com/jsonfr.php?jsoncallback=jQuery30006999710323092536_1623657284390&_=1623657284391 net::ERR_CONNECTION_CLOSED
+send @ jquery.min.0df0e32e18ee58de56f4070a7846a5de.js:1
+ajax @ jquery.min.0df0e32e18ee58de56f4070a7846a5de.js:1
+m.<computed> @ jquery.min.0df0e32e18ee58de56f4070a7846a5de.js:1
+getJSON @ jquery.min.0df0e32e18ee58de56f4070a7846a5de.js:1
+(anonymous) @ bns.bundle.min.c596899832ee574efe8e3994af7187b3.js:2
+l @ jquery.min.0df0e32e18ee58de56f4070a7846a5de.js:1
+c @ jquery.min.0df0e32e18ee58de56f4070a7846a5de.js:1
+setTimeout (async)
+(anonymous) @ jquery.min.0df0e32e18ee58de56f4070a7846a5de.js:1
+u @ jquery.min.0df0e32e18ee58de56f4070a7846a5de.js:1
+fireWith @ jquery.min.0df0e32e18ee58de56f4070a7846a5de.js:1
+fire @ jquery.min.0df0e32e18ee58de56f4070a7846a5de.js:1
+u @ jquery.min.0df0e32e18ee58de56f4070a7846a5de.js:1
+fireWith @ jquery.min.0df0e32e18ee58de56f4070a7846a5de.js:1
+ready @ jquery.min.0df0e32e18ee58de56f4070a7846a5de.js:1
+B @ jquery.min.0df0e32e18ee58de56f4070a7846a5de.js:1
+09:54:53.092 index.html:1 Refused to execute script from 'https://maps.scotiabank.com/locator/assets/js/log.json' because its MIME type ('application/json') is not executable, and strict MIME type checking is enabled.
+09:54:53.178 find_the_right_account.png:1 Failed to load resource: the server responded with a status of 404 ()
+09:54:53.178 choose_a_card.png:1 Failed to load resource: the server responded with a status of 404 ()
+09:54:53.178 what_can_I_afford.png:1 Failed to load resource: the server responded with a status of 404 ()
+09:54:53.178 MoneyFinderCalculator.png:1 Failed to load resource: the server responded with a status of 404 ()
+09:54:53.256 index.html:2855 Uncaught ReferenceError: _satellite is not defined
+at index.html:2855
+09:54:53.300 query.yahooapis.com/v1/public/yql?callback=jQuery17205376890900500597_1623657293096&q=select+*+from+html+where+url%3D%22https%3A%2F%2Fwww.scotiabank.com%2Frd%2Fcda%2Fcontent%2Fmega_menu%2F0%2C%2C2%2C00.html%22+and+xpath%3D%22*%22&format=xml:1 Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+09:54:53.300 Refused to frame 'https://6104928.fls.doubleclick.net/' because it violates the following Content Security Policy directive: "child-src 'self' *.scotiabank.com *.scotiabank.bns *.kampyle.com". Note that 'frame-src' was not explicitly set, so 'child-src' is used as a fallback.
+
+09:54:53.305 Refused to frame 'https://6104928.fls.doubleclick.net/' because it violates the following Content Security Policy directive: "child-src 'self' *.scotiabank.com *.scotiabank.bns *.kampyle.com". Note that 'frame-src' was not explicitly set, so 'child-src' is used as a fallback.
+
+09:54:53.336 (index):7146 crbug/1173575, non-JS module files deprecated.
+(anonymous) @ (index):7146
+09:54:53.359 (index):7146 crbug/1173575, non-JS module files deprecated.
+(anonymous) @ (index):7146
+09:54:53.401 assets.adobedtm.com/:1 Refused to frame 'https://scotiabank.demdex.net/' because it violates the following Content Security Policy directive: "child-src 'self' *.scotiabank.com *.scotiabank.bns *.kampyle.com". Note that 'frame-src' was not explicitly set, so 'child-src' is used as a fallback.
+
+09:54:53.413 (index):7146 crbug/1173575, non-JS module files deprecated.
+(anonymous) @ (index):7146
+09:54:53.416 launch-20dddbb50451.min.js:2 Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://scotiabank.demdex.net') does not match the recipient window's origin ('null').
+postMessage @ launch-20dddbb50451.min.js:2
+09:55:11.303 c2c-pstmsg.js?v=1.0:17 Uncaught TypeError: e.indexOf is not a function
+at Object.parseMessage (c2c-pstmsg.js?v=1.0:17)
+at c2c-pstmsg.js?v=1.0:24
+at c (c2c-pstmsg.js?v=1.0:12)
+parseMessage @ c2c-pstmsg.js?v=1.0:17
+(anonymous) @ c2c-pstmsg.js?v=1.0:24
+c @ c2c-pstmsg.js?v=1.0:12
+postMessage (async)
+(anonymous) @ 1857465931134723?v=2.9.41&r=stable:25
+(anonymous) @ fbevents.js:24
+v @ fbevents.js:24
+value @ fbevents.js:24
+z @ fbevents.js:24
+$ @ fbevents.js:27
+Z @ fbevents.js:27
+ma @ fbevents.js:27
+X @ fbevents.js:27
+qa @ fbevents.js:27
+(anonymous) @ fbevents.js:27
+(anonymous) @ fbevents.js:24
+v @ fbevents.js:24
+each @ fbevents.js:24
+value @ fbevents.js:24
+value @ fbevents.js:24
+value @ fbevents.js:24
+plugin @ 1483843105201008?v=2.9.41&r=stable:41
+value @ fbevents.js:24
+a. registerPlugin @ fbevents.js:27
+(anonymous) @ 1483843105201008?v=2.9.41&r=stable:26
+09:55:30.535 Navigated to chrome-error://chromewebdata/
+09:55:30.553 VM9:7146 crbug/1173575, non-JS module files deprecated.
+(anonymous) @ VM9:7146
