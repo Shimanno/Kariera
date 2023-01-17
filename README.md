@@ -1,4 +1,4 @@
-Witaj na mojej stronie GitHub!
+Witajcie na mojej stronie GitHub!
 
 Chciałbym przedstawić Wam mój profil jako kandydata na testera oprogramowania! 
 Obecnie pracuję na stanowisku programista/operator maszyn CNC. Moja codzienna praca wymaga precyzji, dokładności, dbania o najmniejsze szczegóły oraz odpowiedzialności za wielogodzinne procesy wykonywania detali.
